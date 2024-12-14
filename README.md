@@ -1,5 +1,7 @@
 ### **README: dir2txt**
 
+Dir2txt is designed to make working with AI easier. The script copies the human readable content of a directory and outputs it into a text file to assist with AI prompting. 
+
 This README provides detailed instructions on how to use the `dir2txt` script to traverse directories, extract file contents, and generate an organized tree structure of the directory. It also describes the script's functionality, usage, and options, as well as examples for running it.
 
 ---
